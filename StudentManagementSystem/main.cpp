@@ -5,6 +5,8 @@
 #include <string>
 #include <atlstr.h>
 
+#pragma comment(lib,"sqlite3.lib")
+
 const int FAIL = -1;
 const int SUCCESS = 0;
 
